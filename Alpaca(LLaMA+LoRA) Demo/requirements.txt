@@ -1,1 +1,12 @@
+#huggyface提供的APIs
+peft
+transformers
 
+#LLaMA相依資源
+accelerate
+bitsandbytes
+sentencepiece
+
+#用於獲取Alpaca的資料集
+git+https://github.com/tloen/alpaca-lora.git
+datasets
