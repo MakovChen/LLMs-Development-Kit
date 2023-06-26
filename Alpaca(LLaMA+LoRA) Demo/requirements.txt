@@ -3,5 +3,4 @@ transformers
 accelerate
 bitsandbytes
 sentencepiece
-git+https://github.com/tloen/alpaca-lora.git
 datasets
