@@ -1,6 +1,0 @@
-peft
-transformers
-accelerate
-bitsandbytes
-sentencepiece
-datasets
